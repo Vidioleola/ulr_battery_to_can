@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vincent/Documents/formul/formuleLocal/esp32_rs232_to_can/build",
+  "command": "/bin/c++ -g -o CMakeFiles/test.dir/main.cpp.o -c /home/vincent/Documents/formul/formuleLocal/esp32_rs232_to_can/testStateMachine/main.cpp",
+  "file": "/home/vincent/Documents/formul/formuleLocal/esp32_rs232_to_can/testStateMachine/main.cpp"
+}
+]
